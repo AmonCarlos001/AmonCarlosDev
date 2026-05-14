@@ -24,20 +24,17 @@
 
 🛠️ Tech Stack
 Backend
-Show Image
-Show Image
-Show Image
+<img width="1600" height="899" alt="88142ef9-fd47-4a24-9b7c-e133c5edaebd" src="https://github.com/user-attachments/assets/0161e578-8ab1-4dce-89fc-17b9e6cfd06a" />
+
 Banco de Dados
-Show Image
-Show Image
+<img width="1600" height="899" alt="b1fc22d2-9e5e-4624-99b3-ff4dfa689b6b" src="https://github.com/user-attachments/assets/c0e20f18-770a-4869-8a81-4d9593540f29" />
+
 DevOps & Ferramentas
-Show Image
-Show Image
-Show Image
+<img width="1918" height="1029" alt="Captura de tela 2026-05-14 083123" src="https://github.com/user-attachments/assets/bcadae1d-1a7d-4c99-a2a5-dd3700343bfc" />
+
 Frontend (base)
-Show Image
-Show Image
-Show Image
+<img width="1583" height="876" alt="Captura de tela 2026-05-14 083300165110" src="https://github.com/user-attachments/assets/8e2a3a2f-b241-45d8-b715-18eb90c8eb84" />
+
 
 📌 Projetos em Destaque
 ProjetoDescriçãoTecnologias🔐 validador-senhaValidação de senhas com requisitos de complexidade e segurançaJava⛽ projetoAlcoolGasolinaComparador de custo-benefício entre álcool e gasolinaHTML, JS🎵 clone_SpotifyInterface inspirada no Spotify com sidebar, álbuns e player fixoHTML, CSS🎯 projetofrasesmotivacionaisGerador de frases motivacionais com manipulação do DOMHTML, CSS, JS
