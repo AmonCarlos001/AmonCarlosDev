@@ -37,7 +37,11 @@ Frontend (base)
 
 
 📌 Projetos em Destaque
-ProjetoDescriçãoTecnologias🔐 validador-senhaValidação de senhas com requisitos de complexidade e segurançaJava⛽ projetoAlcoolGasolinaComparador de custo-benefício entre álcool e gasolinaHTML, JS🎵 clone_SpotifyInterface inspirada no Spotify com sidebar, álbuns e player fixoHTML, CSS🎯 projetofrasesmotivacionaisGerador de frases motivacionais com manipulação do DOMHTML, CSS, JS
+
+🔐 validador-senhaValidação de senhas com requisitos de complexidade e segurançaJava
+⛽ projetoAlcoolGasolinaComparador de custo-benefício entre álcool e gasolinaHTML, JS
+🎵 clone_SpotifyInterface inspirada no Spotify com sidebar, álbuns e player fixoHTML, CSS
+🎯 projetofrasesmotivacionaisGerador de frases motivacionais com manipulação do DOMHTML, CSS, JS
 
 📈 GitHub Stats
 <p align="center">
