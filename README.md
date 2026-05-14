@@ -44,8 +44,12 @@ Frontend (base)
 🎯 projetofrasesmotivacionaisGerador de frases motivacionais com manipulação do DOMHTML, CSS, JS <br>
 
 📈 GitHub Stats
-   https://github-readme-stats.vercel.app/api?username=AmonCarlos001&theme=tokyonight
-
+<p align="center">
+  <img height="160em" src="https://streak-stats.demolab.com?user=AmonCarlos001&theme=tokyonight&hide_border=true&locale=pt_BR" />
+</p>
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmonCarlos001&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+</p>
 🎯 Atualmente aprendendo
 javaString[] estudandoAgora = {
     "Spring Boot — APIs REST com boas práticas",
