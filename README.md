@@ -59,11 +59,14 @@
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
+| [💈 barbershop-api](https://github.com/AmonCarlos001/barbershop-api) | API REST para gerenciamento de barbearia com autenticação JWT | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) |
+| [💳 sistema-pagamento-java](https://github.com/AmonCarlos001/sistema-pagamento-java) | Sistema de pagamento desenvolvido em Java | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
+| [🎥 youtube-api-video-search](https://github.com/AmonCarlos001/youtube-api-video-search) | Buscador de vídeos Full-Stack em Dark Mode consumindo a YouTube Data API v3 | ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| [👕 ac-Store](https://github.com/AmonCarlos001/ac-Store) | Loja de vestuário especializada em tênis, roupas e acessórios esportivos | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) |
 | [🔐 validador-senha](https://github.com/AmonCarlos001/validador-senha) | Validação de senhas com requisitos de complexidade e segurança | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
-| [⛽ projetoAlcoolGasolina](https://github.com/AmonCarlos001/projetoAlcoolGasolina) | Comparador de custo-benefício entre álcool e gasolina | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) |
 | [🎵 clone_Spotify](https://github.com/AmonCarlos001/clone_Spotify) | Interface inspirada no Spotify com sidebar, álbuns e player fixo | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) |
 | [🎯 projetofrasesmotivacionais](https://github.com/AmonCarlos001/projetofrasesmotivacionais) | Gerador de frases motivacionais com manipulação do DOM | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| [💈 barbershop-api](https://github.com/AmonCarlos001/barbershop-api) | API REST para gerenciamento de barbearia com autenticação JWT | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) |
+| [⛽ projetoAlcoolGasolina](https://github.com/AmonCarlos001/projetoAlcoolGasolina) | Comparador de custo-benefício entre álcool e gasolina | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) |
 
 ---
 
